@@ -6,6 +6,15 @@ About Me
 
 I am a dynamic and resourceful software engineer, specializing in full-stack development. My approach blends creative thinking with consistency, allowing me to thrive in challenging and pressure-filled environments. I possess a strong inclination for independent learning and practical problem-solving.
 Experience
+
+Development of an employee evaluation management project for the Siach Sod association:
+    A unit developer in an end-to-end project, The Employee Evaluation System is designed 
+    to streamline the annual evaluation process for employees within the organization. It 
+    facilitates the selection of outstanding employees and provides comprehensive data 
+    reports for management, The project is written with clean code.
+    Server-side: C#, Client-side react-typescript with Ant Design library, DB- SQL server
+    Working with nested components in the client and dividing into layers in the server
+
 Jerusalem Municipality - Internship
 
     Duration: 300 hours
