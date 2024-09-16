@@ -1,7 +1,7 @@
 Zehava oren - Software Engineer
 Overview
 
-Welcome to my GitHub repository! This is where I showcase my journey as a software engineer, providing insights into my skills, experiences, and projects. Feel free to explore and get to know me better.
+Welcome to my GitHub repository! This is where I showcase my journey as a Full stack developer, providing insights into my skills, experiences, and projects. Feel free to explore and get to know me better.
 About Me
 
 I am a dynamic and resourceful software engineer, specializing in full-stack development. My approach blends creative thinking with consistency, allowing me to thrive in challenging and pressure-filled environments. I possess a strong inclination for independent learning and practical problem-solving.
